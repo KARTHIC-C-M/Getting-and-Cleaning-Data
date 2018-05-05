@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Week 4 Assignment
 Author: Karthic C M <br />
-Post: [Getting and Cleaning Data Review] <br />
+Post: Getting and Cleaning Data Review <br />
 Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
 ## Goal of the Project
