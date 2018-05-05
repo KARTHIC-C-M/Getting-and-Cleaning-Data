@@ -1,5 +1,15 @@
-# Getting-and-Cleaning-Data-Week-4-Assignment
+# Getting and Cleaning Data Week 4 Assignment
+Author: Karthic C M <br />
+Post: [Getting and Cleaning Data Review] <br />
+Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
+## Goal of the Project
+1. A tidy data set 
+2. A link to a Github repository with your script for performing the analysis 
+3. A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
+4. Analysis R Script
+
+### Process
 The repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
 * First, download and unzip the data file into your R working directory.
 * Second, download the R source code into your R working directory.
@@ -15,10 +25,6 @@ The code combined training dataset and test dataset,  and extracted partial vari
 The new generated dataset contained variables calculated based on the mean and standard deviation. Each row of the dataset is an average of each activity type for all subjects.
 
 ### The code was written based on the instruction of this assignment
-Read training and test dataset into R environment.
-Read variable names into R envrionment.
-Read subject index into R environment.
-
 1. Merges the training and the test sets to create one data set.
 Use command rbind to combine training and test set
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
